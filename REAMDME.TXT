@@ -1,0 +1,17 @@
+
+git@github.com:sanjaykumardbdev/myappssample1.git
+git remote add orign https://github.com/sanjaykumardbdev/myappssample2.git
+
+
+
+kusno8@ZNEEVCSP16VC201 MINGW64 ~/myapp (master)
+$ git push -u origin master
+Enumerating objects: 10, done.
+Counting objects: 100% (10/10), done.
+Delta compression using up to 48 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (10/10), 716 bytes | 35.00 KiB/s, done.
+Total 10 (delta 0), reused 0 (delta 0)
+To https://github.com/sanjaykumardbdev/mysampleapp2.git
+ * [new branch]      master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
